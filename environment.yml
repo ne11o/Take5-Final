@@ -12,3 +12,8 @@ dependencies:
   - bokeh
   - dask
   - voila
+  - seeq
+  - spy
+  - ipywidgets
+  - IPython
+  - datetime
