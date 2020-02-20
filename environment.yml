@@ -14,7 +14,6 @@ dependencies:
   - voila
   - pip:
     - seeq
-    - spy
     - datetime
   - ipywidgets
   - IPython
